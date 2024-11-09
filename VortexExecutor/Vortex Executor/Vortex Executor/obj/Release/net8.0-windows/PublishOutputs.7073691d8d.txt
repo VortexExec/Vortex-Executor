@@ -1,0 +1,6 @@
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\bin\Release\net8.0-windows\publish\Vortex Executor.exe
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\bin\Release\net8.0-windows\publish\Vortex Executor.dll
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\bin\Release\net8.0-windows\publish\Vortex Executor.deps.json
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\bin\Release\net8.0-windows\publish\Vortex Executor.runtimeconfig.json
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\bin\Release\net8.0-windows\publish\Vortex Executor.pdb
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\bin\Release\net8.0-windows\publish\cxapis.dll

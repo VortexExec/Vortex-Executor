@@ -1,0 +1,20 @@
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\obj\Debug\net8.0-windows\Vortex Executor.csproj.AssemblyReference.cache
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\obj\Debug\net8.0-windows\Vortex_Executor.Form1.resources
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\obj\Debug\net8.0-windows\Vortex Executor.csproj.GenerateResource.cache
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\obj\Debug\net8.0-windows\Vortex Executor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\obj\Debug\net8.0-windows\Vortex Executor.AssemblyInfoInputs.cache
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\obj\Debug\net8.0-windows\Vortex Executor.AssemblyInfo.cs
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\obj\Debug\net8.0-windows\Vortex Executor.csproj.CoreCompileInputs.cache
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\bin\Debug\net8.0-windows\Vortex Executor.exe
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\bin\Debug\net8.0-windows\Vortex Executor.deps.json
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\bin\Debug\net8.0-windows\Vortex Executor.runtimeconfig.json
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\bin\Debug\net8.0-windows\Vortex Executor.dll
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\bin\Debug\net8.0-windows\Vortex Executor.pdb
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\bin\Debug\net8.0-windows\cxapis.dll
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\obj\Debug\net8.0-windows\Vortex E.1B9F6B64.Up2Date
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\obj\Debug\net8.0-windows\Vortex Executor.dll
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\obj\Debug\net8.0-windows\refint\Vortex Executor.dll
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\obj\Debug\net8.0-windows\Vortex Executor.pdb
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\obj\Debug\net8.0-windows\Vortex Executor.genruntimeconfig.cache
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\obj\Debug\net8.0-windows\ref\Vortex Executor.dll
+C:\Users\bzrbe\Downloads\VortexExecutor\Vortex Executor\Vortex Executor\obj\Debug\net8.0-windows\Vortex_Executor.Properties.Resources.resources
